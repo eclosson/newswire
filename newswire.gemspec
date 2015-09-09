@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Newswire::VERSION
   spec.authors       = ["Evan Closson"]
   spec.email         = ["eclosson@medivo.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Newsworthy information radiator messaging for micro-apps.}
+  spec.description   = %q{Newsworthy information radiator messaging for micro-apps.}
+  spec.homepage      = "https://github.com/eclosson/newswire"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
